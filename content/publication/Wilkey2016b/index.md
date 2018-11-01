@@ -1,0 +1,12 @@
++++
+title = "Economic and Environmental Impacts of Oil and Gas Development on the Uinta Basin"
+date = 2016-01-01
+authors = ["Jonathan Wilkey"]
+publication_types = ["4"]
+abstract = "Conventional oil and gas (COG) development is a major source of employment and driver of economic development in Utah's Uinta Basin. However, it is also the primary cause of ground-level ozone pollution in the region and negatively impacts or consumes other limited public resources (e.g., water). All of these impacts will be amplified if oil shale resources in the Uinta Basin are ever developed. In order to optimize these trade-offs (i.e., minimizing the negative environmental impacts while maximizing the positive economic impacts), regulators, industry, policy makers, and the general public need to know when and how much development might occur in the Uinta Basin. Therefore this research focuses on (1) forecasting the potential economic and environmental impacts of COG development on the Uinta Basin and (2) estimating the oil price necessary for oil shale processing to be economically viable. For COG, both impact estimates rely on a shared method of modeling drilling and production activity. In cross-validation tests, these methods have proven highly accurate, with energy price forecasts being the greatest source of uncertainty. Over the 2015 - 2019 period, median volatile organic compound emissions from the COG industry are expected to drop 45% compared to the 2010 - 2014 period due to decreases in drilling activity and tighter emission standards. The drop in drilling activity is expected to reduce employment by 23%. Royalty and tax revenue collected by the state of Utah is also expected to drop by 20% due to lower energy prices. For oil shale, both in situ and ex situ processing methods could be economically viable if oil prices recover. Of the two options, ex situ processing faces fewer economic hurdles. The median oil price for ex situ processing is $94/bbl, vs. $272/bbl for in situ processing. Both processing methods have large upfront capital costs (on the order of billions of dollars) for drilling wells or building a mine and retorting complex. In situ scenarios are financially hindered compared to ex situ scenarios because most require multiple years of heating before reaching their maximum oil production rate."
+selected = false
+publication = "PhD Dissertation"
+tags = ["Air Pollution", "Decline Curve Analysis", "Engineering Economics", "Oil Shale"]
+url_pdf = "http://cdmbuntu.lib.utah.edu/cdm/ref/collection/etd3/id/4302"
++++
+
